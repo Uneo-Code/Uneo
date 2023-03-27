@@ -3,12 +3,16 @@ Uneo is a console based programming language made with python. This language is 
 
 #How to use it :
 ```
-1. cd Uneo
-2. python shell.py
-3. Create a file with .uneo extension 
-4. Write RUN("filename.uneo")
+1. git clone https://github.com/Uneo-Code/Uneo
+```
+```
+2. cd Uneo
+3. python shell.py
+4. Write RUN("example.uneo")
 
 ```
+
+You can edit example.uneo and create a new file with .uneo extension 
 
 # These are all commands 
 
