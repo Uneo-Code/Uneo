@@ -3,10 +3,9 @@
 # Uneo
 Uneo is a console based programming language made with python. This language is made by Umar
 
-#How to use it :
-```
-1. git clone https://github.com/Uneo-Code/Uneo
-```
+# How to use it :
+
+1. ```git clone https://github.com/Uneo-Code/Uneo```
 
 
 2. cd Uneo
