@@ -16,9 +16,9 @@ Uneo is a console based programming language made with python. This language is 
 
 You can edit example.uneo and create a new file with .uneo extension 
 
-# These is a guide of this programming 
+# This is a guide of this programming 
 
-You can also copy this
+You can also copy this text
 
 ```
 statements  : NEWLINE* statement (NEWLINE+ statement)* NEWLINE*
