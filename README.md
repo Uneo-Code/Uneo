@@ -7,18 +7,19 @@ Uneo is a console based programming language made with python. This language is 
 ```
 1. git clone https://github.com/Uneo-Code/Uneo
 ```
-```
+
+
 2. cd Uneo
 3. python shell.py
 4. Write RUN("example.uneo")
 
-```
+
 
 You can edit example.uneo and create a new file with .uneo extension 
 
 # These are all commands 
 
-```
+
 statements  : NEWLINE* statement (NEWLINE+ statement)* NEWLINE*
 
 statement		: KEYWORD:RETURN expr?
@@ -79,4 +80,4 @@ func-def    : KEYWORD:FUN IDENTIFIER?
               (ARROW expr)
             | (NEWLINE statements KEYWORD:END)
 
-```
+
